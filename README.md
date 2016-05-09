@@ -1,3 +1,3 @@
 # JHW
 
-This is a 'Hello World' example to connect to Jenkins
+This example code supports a Github/Jenkins integration test.
